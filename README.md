@@ -1,3 +1,4 @@
 # mycollege-demo
+This is my first   Git repository
 <br>
-Author = Aman Kumar.
+Author = A.K (my college)
